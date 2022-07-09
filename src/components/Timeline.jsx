@@ -32,7 +32,7 @@ function Timeline() {
                         <p>
                             On Sunday, 24<sup>th</sup> July, 2022,
                             <br />
-                            23<sup>rd</sup> Zilhajjah, 1443 Hijri,
+                            24<sup>th</sup> Zilhajjah, 1443 Hijri,
                             <br />
                             Time: 12:45 PM.
                         </p>
@@ -55,7 +55,7 @@ function Timeline() {
                         <p>
                             On Monday, 25<sup>th</sup> July, 2022,
                             <br />
-                            24<sup>th</sup> Zilhajjah, 1443 Hijri,
+                            25<sup>th</sup> Zilhajjah, 1443 Hijri,
                             <br />
                             Time: 08:00 PM.
                         </p>
